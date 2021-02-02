@@ -4,4 +4,4 @@ This a new flutter application can run in Android and IOS devices. This applicat
 
 ## Screenshots: 
 
-<img src="Screenshot/1.jpg" width = "100">
+<img src="Screenshot/1.jpg" width = "400">
